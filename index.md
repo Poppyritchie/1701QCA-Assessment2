@@ -4,13 +4,32 @@ You will use this workbook to keep track of your progress through the course and
 
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+## Night light ##
+
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
+Breath of light 
+
+https://www.youtube.com/watch?v=CfVTQ6jrqg0
+
+![Image](missingimage.png)
+
+This project is related to mine because it involves lights and the aesthetic is inspiring which I would like to include in my final project. The lights turn on depending on the sensor which is similar to mine where the lights depend on a particular variable.
+
+### Related project 2 ###
+Interactive lamp
+
+http://www.designgallerist.com/blog/interactive-lamp-contemporary-design-kolo/
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+
+### Related project 3 ###
 *Insert name of project*
 
 *Insert URL to project*
@@ -19,7 +38,38 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 This project is related to mine because *insert reasons here*.
 
+### Related project 4 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 5 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 6 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+
 ## Other research ##
+
+https://makecode.microbit.org/projects/compass
+This page from Mircowas useful for my project as it help me wrap my head around the basics of compass coding which I have to include in my project. 
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 ### *Brief resource name/description* ###
@@ -29,7 +79,8 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+The design intent for this project is a night light sutible for a side table, the light will be interactive and a nice aesthetic look.
+
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
